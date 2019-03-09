@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3001
 
 app.patch('/', (req, res) => res.send('PATCH endpoint'))
 app.post('/', (req, res) => res.send('POST endpoint'))
