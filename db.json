@@ -1,0 +1,12 @@
+//db.json
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Jason",
+      "lastName": "Arnold",
+      "location": "NYC",
+      "email": "jason@test.com"
+    }
+  ]
+}
